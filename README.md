@@ -1,8 +1,8 @@
-## Hi, I'm Khadija 👋
+## Hi, I'm Khadija 👩‍💻 👋
 
 💬 i'm a software developer who is passionate about front end development
-    My tech stack includes HTML, CSS, javascript, reactJS and SCSS
-📫 Find me on twitter [@NauraCodes](https://)
+📚 My tech stack includes HTML, CSS, javascript, reactJS and SCSS
+📫 Find me on twitter [@NauraCodes](https://twitter.com/NauraCodes?t=qKbZ8DAm-voJr4Z983mUfg&s=09)
 
 <!--
 **naura1835/naura1835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
