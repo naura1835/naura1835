@@ -1,7 +1,8 @@
 ## Hi, I'm Khadija 👩‍💻 👋
 
-- 💬 i'm a software developer who is passionate about front end development
-- 📚 My tech stack includes HTML, CSS, javascript, reactJS and SCSS
+- 💬 i'm a software developer who is passionate about front end development with an interest in UI/UX. I graduate with a degree in computer science and looking to land my first role in tech. I'm passionate about my future in tech and the endless possibilities.
+- 🌱 I’m currently learning Javascript.
+- 📚 My tech stack includes HTML, CSS, javascript, reactJS and SCSS.
 - 📫 Find me on twitter [@NauraCodes](https://twitter.com/NauraCodes?t=qKbZ8DAm-voJr4Z983mUfg&s=09)
 
 <!--
@@ -10,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -  Ask me about ...
