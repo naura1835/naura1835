@@ -2,7 +2,7 @@
 
 - 💬 i'm a software developer who is passionate about front end development with an interest in UI/UX. I recently graduated with a degree in computer science and looking to land my first role in tech. I'm passionate about my future in tech and the endless possibilities.
 - 📚 My tech stack includes HTML, CSS, javascript, reactJS and SCSS.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning to improve my understanding of reactJS.
 - 📫 Find me on twitter [@NauraCodes](https://twitter.com/NauraCodes?t=qKbZ8DAm-voJr4Z983mUfg&s=09)
 
 <!--
