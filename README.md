@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning to improve my understanding of React.
 - 📫 Find me on twitter [@NauraCodes](https://twitter.com/NauraCodes?t=qKbZ8DAm-voJr4Z983mUfg&s=09)
 
+### :closed_book: Latest Blog Posts
++ [Binding Input Values Using Svelte](https://naura.hashnode.dev/binding-input-value-using-svelte)
++ [Svelte: Embracing the Elegance of a Better Framework](https://naura.hashnode.dev/svelte-embracing-the-elegance-of-a-better-framework)
++ [From Front-end to Full-stack web application](https://naura.hashnode.dev/from-front-end-to-full-stack-web-application)
+
 <!--
 **naura1835/naura1835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
